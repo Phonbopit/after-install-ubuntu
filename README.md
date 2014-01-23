@@ -6,7 +6,7 @@
     sudo apt-get update
     sudo apt-get upgrade
     
-**[2. Install Ubuntu Restricted Extras](https://apps.ubuntu.com/cat/applications/ubuntu-restricted-extras/) **
+**[2. Install Ubuntu Restricted Extras](https://apps.ubuntu.com/cat/applications/ubuntu-restricted-extras/)**
 
     sudo apt-get install ubuntu-restricted-extras
     
@@ -102,7 +102,7 @@
 - [Pretty JSON](https://sublime.wbond.net/packages/Pretty%20JSON)
 - [Tag](https://sublime.wbond.net/packages/Tag)
     
-**15. Install Eclipse, ADT Bundle & IDEA**
+**16. Install Eclipse, ADT Bundle & IDEA**
 
 - [Eclipse](http://www.eclipse.org/downloads/)
 - [ADT Bundle](http://developer.android.com/sdk/index.html)
@@ -110,7 +110,7 @@
 - [IDEA](http://www.jetbrains.com/idea/download/index.html)
 - Ubuntu 12.04 64-Bit  `sudo apt-get install ia32-libs`
 
-**[16. Install Genymotion](https://cloud.genymotion.com/page/launchpad/download/)**
+**[17. Install Genymotion](https://cloud.genymotion.com/page/launchpad/download/)**
 
     cd path/to/genymotion
     chmod +x genymotion-2.0.3_x64.bin
