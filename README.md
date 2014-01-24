@@ -110,7 +110,12 @@
 - [IDEA](http://www.jetbrains.com/idea/download/index.html)
 - Ubuntu 12.04 64-Bit  `sudo apt-get install ia32-libs`
 
-**[17. Install Genymotion](https://cloud.genymotion.com/page/launchpad/download/)**
+**[17. Install VirtualBox](https://www.virtualbox.org/wiki/Downloads)**
+
+    sudo apt-get install virtualbox
+
+
+**[18. Install Genymotion](https://cloud.genymotion.com/page/launchpad/download/)**
 
     cd path/to/genymotion
     chmod +x genymotion-2.0.3_x64.bin
@@ -122,7 +127,7 @@
     sudo apt-get install vlc
     sudo apt-get install gimp
     sudo apt-get install inkscape
-    
+    sudo apt-get install filezilla
 
     
 
