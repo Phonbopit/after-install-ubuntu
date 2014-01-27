@@ -21,8 +21,13 @@
 
 **5. Upgrade Graphic Drivers**
 
-- [AMD/Intel Hybrid](http://ubuntuforums.org/showthread.php?t=1930450)
+- [Ubuntu 13.10 AMD/Intel Hybrid]
+    sudo apt-get install fglrx fglrx-pxpress
 
+- [Ubuntu 13.10 Nvidia Hybrid]
+    sudo apt-get install nvidia-319 nvidia-settings-319 nvidia-prime
+
+- [Ubuntu 12.04 AMD/Intel Hybrid](http://ubuntuforums.org/showthread.php?t=1930450)
 
 **[6. Create Launcher Icon](http://www.howopensource.com/2012/10/create-application-launcher-add-icon-to-unity-ubuntu-12-10/)**
 
@@ -121,6 +126,14 @@
     chmod +x genymotion-2.0.3_x64.bin
     ./genymotion-2.0.3_x64.bin
     
+
+**19. Install exFat**
+
+    sudo apt-add-repository ppa:relan/exfat
+    sudo apt-get update
+    sudo apt-get install fuse-exfat
+    # For Ubuntu 13.10 use below
+    sudo apt-get install exfat-utils
 
 **99. Install more programs**
 
